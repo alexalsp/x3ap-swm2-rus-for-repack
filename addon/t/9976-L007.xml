@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<language id="7">
+
+	<page id="382010" title="Script Cmd Names" descr="">
+		<t id="528">Собирать контейнеры по секторам</t>   
+	</page>
+	
+	<page id="382011" title="Script Cmd Shorts" descr="">
+		<t id="528">ColWarUni</t>   
+		<!-- <t id="528">СобЛутГал</t> --> 		
+	</page>
+	
+	<page id="382008" title="Script Cmd Names" descr="">
+		<t id="528">COMMAND_COLLECT_WARES_UNIVERSE</t>
+	</page>
+	
+	<page id="382022" title="Script user help" descr="">  
+		<t id="528">Управление сборщиком контейнеров по Галактике. Приоритет будет отдаваться наиболее ценным товарам. У вас может быть только один сборщик.</t>
+	</page>
+	
+	<page id="8500" title="Script command reference conditions" descr="0" voice="no">
+		<t id="300">Только один корабль</t>
+	</page>
+
+</language>

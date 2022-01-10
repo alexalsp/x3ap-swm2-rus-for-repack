@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language id="7">
+<page id="17" title="Flag Ship Names" descr="The flagship names of each faction. Only applies to new games." voice="no">
+  <t id="883921">Аргонский канцлер</t>             <!-- Rebel Alliance -->
+  <t id="883922">Глава Боронов</t>    <!-- New Republic -->
+  <t id="883923">Глава Телади</t>        <!-- Republic -->
+  <t id="883924">Глава Сплитов</t>                    <!-- Mandalorian -->
+  <t id="883925">Глава Паранидов</t>                <!-- CIS -->
+  <t id="883926">Президент Землян</t>                      <!-- Empire -->
+  <t id="883927">Командующий АОГ</t>            <!-- Remnant -->
+</page> 
+</language>

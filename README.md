@@ -48,12 +48,10 @@ Star Wars Mayhem 2, мод для X3: Albion Prelude. Farnham's Legacy не по
 4. Уничтожайте враждебные вам фракции и опасный вирус канала Омикрон.
 
 ## Установка
-Видео по установке: https://www.youtube.com/watch?v=c68t3CS4E-A&t=37s
-
-### TL;DR
 1. Установите Litcube's Universe
 2. Установите Reshade (необязательно)
-3. Скопируйте SWM2 в папку Litcube's Universe
+3. Скопируйте Star Wars Mayhem 2 в папку Litcube's Universe
+
 
 ### Подробные инструкции Reshade
 1. Установите X3AP, no-steam exe от Egosoft и Litcube's Universe.

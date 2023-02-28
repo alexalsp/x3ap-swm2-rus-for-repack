@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <language id="7">
-
-
     <page id="17" title="Flag Ship Names" descr="The flagship names of each faction. Only applies to new games." voice="no">
-        <t id="883921">Аргонский канцлер</t>             <!-- Rebel Alliance -->
-        <t id="883922">Глава Боронов</t>    <!-- New Republic -->
-        <t id="883923">Глава Телади</t>        <!-- Republic -->
-        <t id="883924">Глава Сплитов</t>                    <!-- Mandalorian -->
-        <t id="883925">Глава Паранидов</t>                <!-- CIS -->
-        <t id="883926">Президент Землян</t>                      <!-- Empire -->
-        <t id="883927">Командующий АОГ</t>            <!-- Remnant -->
+        <t id="883921">(Rebel Chancellor)Аргонский канцлер</t>             <!-- Rebel Alliance -->
+        <t id="883922">(New Republic High Command)Глава Боронов</t>    <!-- New Republic -->
+        <t id="883923">(Republic High Command)Глава Телади </t>        <!-- Republic -->
+        <t id="883924">(Mandalore)Глава Сплитов</t>                    <!-- Mandalorian -->
+        <t id="883925">(Head of State)Глава Паранидов</t>                <!-- CIS -->
+        <t id="883926">(Emperor)Президент Землян</t>                      <!-- Empire -->
+        <t id="883927">(Supreme Commander)Командующий АОГ</t>            <!-- Remnant -->
     </page>
 
     <page id="9972" title="Difficulty - Only applies to new games.">
@@ -46,8 +44,8 @@
 		<t id="38">1</t> <!-- Food display after Sanctuaries names, 0 to deactivate. Also affect Research station info display. (default: 1) -->
 		<t id="39">2</t> <!-- Recycle factor ; bound to ship/laser/missile/shield resources cost divider (default: 2) -->
 		<t id="41">10</t> <!-- Mayhem scanner maximum shield, in percent (default: 7) -->
-		<t id="48">200</t> <!-- Minimum fighters per Battle Group carriers (default: 10) -->
-		<t id="481">200</t> <!-- Maximum fighters per Battle Group carriers (default: 20) -->
+		<t id="48">10</t> <!-- Minimum fighters per Battle Group carriers (default: 10) -->
+		<t id="481">20</t> <!-- Maximum fighters per Battle Group carriers (default: 20) -->
 		<t id="49">120</t> <!-- Breakthrough research amount (default: 60) -->
 		<t id="51">5</t> <!-- Company wares salvagers; per company! (default: 4) -->
 		<t id="52">3</t> <!-- Company ships salvagers; per company! (default: 2) -->
@@ -137,6 +135,5 @@
         <t id='140'>7200</t> <!-- Station autopopulate delay, in seconds. Default : 7200. -->
 		<t id='141'>20</t> <!-- Chances (out of 1000) to loot each shield/laser/missile of the ships you or your ships destroy. Default : 20. -->
 		<t id='142'>1</t> <!-- Destroy and rebuild all corporations in random but appropriate owner faction sectors at gamestart. (default: 1)-->
-		
 	</page>
 </language>
